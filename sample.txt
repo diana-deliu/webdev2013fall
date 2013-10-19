@@ -91,7 +91,7 @@ What does the fox say?
 157
 158
 159
-160
+160razvan
 161
 162
 163 "In God We Trust"
@@ -108,7 +108,11 @@ What does the fox say?
 174
 175
 176
+<<<<<<< HEAD
+177razvan
+=======
 177 Gigel was here
+>>>>>>> 1c770ce55724e48398ca460ca3161a83cb6979a9
 178
 179
 180
@@ -128,7 +132,7 @@ What does the fox say?
 194
 195
 196
-197
+197 zorro
 diana198
 199 thor
 200 hulk
