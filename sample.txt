@@ -20,9 +20,9 @@ a104
 ewqsda1ewq0ewq7weq
 =======
 +1+b107
->>>>>>> 08408c64f7f43bda17a134935dab8d816d58c7b2
-108
-109
+What does the fox say?
+108 >>> Ring-ding-ding-ding-dingeringeding!
+109 >>> Hatee-hatee-hatee-ho!
 110
 <<<<<<< HEAD
 111 asa ceva
