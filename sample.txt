@@ -20,9 +20,15 @@ a104
 ewqsda1ewq0ewq7weq
 =======
 +1+b107
+<<<<<<< HEAD
+>>>>>>> 08408c64f7f43bda17a134935dab8d816d58c7b2 troll mode
+10 8 i like el garagatza
+109
+=======
 What does the fox say?
 108 >>> Ring-ding-ding-ding-dingeringeding!
 109 >>> Hatee-hatee-hatee-ho!
+>>>>>>> 3a81df6f79a794e4d16a3c7d590de9caa690bc3c
 110
 <<<<<<< HEAD
 111 asa ceva
@@ -93,7 +99,7 @@ What does the fox say?
 157
 158
 159
-160
+160razvan
 161
 162
 163 "In God We Trust"
@@ -108,9 +114,13 @@ What does the fox say?
 172
 173
 174
-175
+175eu
 176
+<<<<<<< HEAD
+177razvan
+=======
 177 Gigel was here
+>>>>>>> 1c770ce55724e48398ca460ca3161a83cb6979a9
 178
 179
 180
