@@ -49,7 +49,11 @@ ewqsda1ewq0ewq7weq
 125
 126
 127
-128sdw
+<<<<<<< HEAD
+128
+=======
+128 gasdak
+>>>>>>> 1c770ce55724e48398ca460ca3161a83cb6979a9
 129
 130
 131
@@ -66,9 +70,9 @@ ewqsda1ewq0ewq7weq
 142
 143
 144
-145
+145 aici am facut eu modificari
 146
-147
+147 haha. am fost prima :P
 148
 149
 150
@@ -98,7 +102,7 @@ ewqsda1ewq0ewq7weq
 174
 175
 176
-177
+177 Gigel was here
 178
 179
 180
@@ -121,4 +125,4 @@ ewqsda1ewq0ewq7weq
 197
 diana198
 199
-200
+200 hulk
